@@ -256,7 +256,7 @@ header nav ul li a.nav-link.active::before {
 
 .home {
     position: relative;
-    background: url(../images/home_dark.jpg);
+    background: url(../images/me.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
